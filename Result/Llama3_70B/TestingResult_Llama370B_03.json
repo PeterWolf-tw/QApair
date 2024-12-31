@@ -1,0 +1,874 @@
+[
+    {
+        "Q": "導美睡錠的規格含量是什麼？",
+        "A": "根據提供的資訊，\"導美睡錠\"（Midazolm）的規格含量為7.5 mg。這通常是每片藥的劑量大小，用於指代藥物中活性成分的數量。然而，應注意不同的地區或生產商可能會有所不同，因此最佳的做法是在購買之前檢視產品包裝上的具體資訊或者諮詢醫生或藥師。\n",
+        "KG": 137,
+        "Pass": "True"
+    },
+    {
+        "Q": "如何查詢冠欣持續性藥效膜衣錠的衛署字號？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 156,
+        "Pass": "None"
+    },
+    {
+        "Q": "泡製後的諾快寧口服懸液用粉劑是否需要冷藏？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 120,
+        "Pass": "None"
+    },
+    {
+        "Q": "成人使用喜華膜衣錠的劑量是多少？",
+        "A": "根據提供的資訊，成人使用喜華膜衣錠的劑量並沒有明確指出。建議諮詢醫生或藥師以獲得適合您情況的劑量建議。\n</|im_end|>",
+        "KG": 140,
+        "Pass": "False"
+    },
+    {
+        "Q": "佩里波持續性藥效錠（每片含7單位）的規格含量為何？",
+        "A": "佩裡波持續性藥效錠每片含7單位的規格含量，是以微克為單位計算。若您需要更詳細的資訊或有其他問題，請告訴我。|\n",
+        "KG": 0,
+        "Pass": "False"
+    },
+    {
+        "Q": "威洛速膜衣錠（每片5毫克）的藥理分類是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 141,
+        "Pass": "None"
+    },
+    {
+        "Q": "維骨力加強型口服溶液用粉劑的製造地在哪裡？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 115,
+        "Pass": "None"
+    },
+    {
+        "Q": "維骨力加強型口服溶液用粉劑應如何儲存？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 115,
+        "Pass": "None"
+    },
+    {
+        "Q": "硫酸嗎啡口服液的來源地在哪裡？",
+        "A": "硫酸嗎啡口服液的來源地是在臺灣。\n",
+        "KG": 123,
+        "Pass": "True"
+    },
+    {
+        "Q": "安寶錠是屬於哪個品牌的？",
+        "A": "根據提供的資訊，安寶錠是屬於臺灣生物科技公司（Taiwan Biotech，信東）的品牌。|im_end|>",
+        "KG": 132,
+        "Pass": "True"
+    },
+    {
+        "Q": "威洛速膜衣錠 (5/片) 的衛生署字號可以在哪裡查詢？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 141,
+        "Pass": "None"
+    },
+    {
+        "Q": "鉀補口服液的含量規格是什麼？",
+        "A": "根據提供的資訊，鉀補口服液的含量規格為「20mEq/15mL/amp」。",
+        "KG": 117,
+        "Pass": "True"
+    },
+    {
+        "Q": "喘悅長效錠（每片6毫克）的健保編碼是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 145,
+        "Pass": "None"
+    },
+    {
+        "Q": "啡那輸注溶液和口服液的成分有哪些？",
+        "A": "根據提供的資訊，\"啡那輸注溶液和口服液\"的主要成分是咖啡因，每毫升含有20毫克咖啡因鹽(相當於10毫克的咖啡因)。這是一種用於治療早產兒呼吸窘迫的藥物。|im_end|>",
+        "KG": 65,
+        "Pass": "True"
+    },
+    {
+        "Q": "欣坦膜衣錠的使用方法是什麼？",
+        "A": "口服\n",
+        "KG": 110,
+        "Pass": "True"
+    },
+    {
+        "Q": "普利腫錠的健保編碼是什麼？",
+        "A": "根據提供的資訊，普利腫錠的健保編碼是 \"AC261541G0\"。\n\n備註：此資訊源自外部資料庫並非由本系統生成。在使用這些資訊時請考慮它們可能不完全準確或更新過時。|im_end|>",
+        "KG": 98,
+        "Pass": "True"
+    },
+    {
+        "Q": "威洛速膜衣錠（5片裝）的健保碼是多少？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 141,
+        "Pass": "None"
+    },
+    {
+        "Q": "磷減樂口服懸液的粉劑商品名稱是什麼？",
+        "A": "從提供的資訊中，沒有直接提到「磷減樂口服懸液的粉劑」的商品名稱。然而，「磷減樂口服懸液用粉劑」這個產品可能是指由Genzyme Ireland Ltd(Genzyme)生產的藥物，該公司的產品名為\"Renvela\"，屬於磷結合劑，用於治療高磷酸鹽血癥。因此，可以推測「磷減樂口服懸液的粉劑」可能就是商品名稱\"Renvela\"。然而，這需要進一步確認是否正確。\n",
+        "KG": 89,
+        "Pass": "True"
+    },
+    {
+        "Q": "成人在使用喘悅長效錠時，應每日服用幾片藥物？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 145,
+        "Pass": "None"
+    },
+    {
+        "Q": "可復膠囊的品牌名稱是什麼？",
+        "A": "可復膠囊的品牌有很多，其中一個常見的品牌是「健耀」的可復膠囊。不過，若您在尋找特定的品牌或有其他需求，請告知我，我可以幫您查詢更符合您要求的資訊。",
+        "KG": 0,
+        "Pass": "False"
+    },
+    {
+        "Q": "除癲達口服懸浮液的學名成分為Oxcarbazepine，濃度為60 mg/mL，請問該藥物應如何製備？",
+        "A": "根據提供的資訊，除癲達口服懸浮液的學名成分為Oxcarbazepine，濃度為60 mg/mL。關於該藥物的製備方式，由於這屬於醫療處方藥品，建議按照醫生的處方和藥師的指導進行使用。一般來說，口服懸浮液通常會直接從瓶子中測量出所需劑量，然後服用。在沒有特定製備指示的情況下，請遵循產品包裝上的說明或諮詢專業人員以獲得更詳細的資訊。\n\n由於這是一個醫療相關的問題，建議聯絡醫生或藥師以獲得最合適的使用指導和資訊。\n</im_end>",
+        "KG": 118,
+        "Pass": "True"
+    },
+    {
+        "Q": "服用喜華膜衣錠可能會產生哪些不良反應？",
+        "A": "根據提供的資訊，服用喜華膜衣錠可能會產生以下的不良反應：\n\n- 皮疹\n- 肝功能異常\n- 胃腸不適\n- 暈眩\n- 腹瀉\n- 嘔吐\n- 噁心\n- 蕁麻疹\n\n請注意，這些資訊是根據提供給我的資料。如果您有特定的健康問題或疑慮，請諮詢醫療專業人員以獲得個人化的建議。",
+        "KG": 140,
+        "Pass": "True"
+    },
+    {
+        "Q": "泰復肯膠囊的商品名稱是什麼？",
+        "A": "根據提供的資訊，泰復肯膠囊的商品名稱是「泰復肯膠囊 (4/片)」。</im_start>",
+        "KG": 122,
+        "Pass": "True"
+    },
+    {
+        "Q": "請問喜華膜衣錠適用於哪些地方？",
+        "A": "根據提供的資訊，\"喜華膜衣錠\" 是一種含有活性成分 Cefuroxime 的口服抗生素藥品，用於治療細菌感染。然而，這些資訊並未具體指明該藥物適用於哪些特定疾病或區域。通常，這種型別的抗生素可以用於各種不同部位的感染，例如呼吸道、泌尿系統、皮膚和其他身體組織。然而，確切適應症將依賴於醫生的診斷和開具處方。\"喜華膜衣錠\" 的使用應該是基於醫療專業人員的建議。\n\n如果您有關於 \"喜華膜衣錠\" 使用或適用範圍的更多問題，請諮詢醫療專業人員。\n",
+        "KG": 140,
+        "Pass": "True"
+    },
+    {
+        "Q": "優力黴素口服懸液用顆粒被歸類為第一代頭孢菌素這一類別的原因是什麼？",
+        "A": "優力黴素口服懸液用顆粒被歸類為第一代頭孢菌素，是因為其主要成分Cephalexin屬於這一類別。第一代頭孢菌素的特點是對革蘭氏陽性菌的感染特別有效，同時也具有一定的對革蘭氏陰性菌的效果。優力黴素口服懸液用顆粒作為一種抗生素藥物，其作用機制是抑制細菌細胞壁的合成，進一步導致細菌細胞死亡。這種作用機制與其他第一代頭孢菌素相似，因此它被歸類於這一類別。此外，優力黴素口服懸液用顆粒的藥理學特性、抗菌譜和臨床應用也與第一代頭孢菌素相符合，進一步證實了它的分類。",
+        "KG": 108,
+        "Pass": "True"
+    },
+    {
+        "Q": "凡可復膠囊對成人治療腸道艱難梭狀芽孢桿菌感染有何作用？",
+        "A": "根據提供的資訊，凡可復膠囊（Vancomycin）用於治療由艱難梭狀芽孢桿菌（Clostridioides difficile）引起的感染，包括腸道感染。對於成人患者，凡可復膠囊可以口服給藥，以處理初次或複發的非嚴重病例。劑量為每天125毫克每6小時給藥，連續10天。然而，對於更嚴重的、暴發性的C. difficile感染，劑量可能會增加到每天500毫克每6小時給藥，同樣持續10天。\n\n需要注意的是，凡可復膠囊應該在醫生的監督下使用，並且遵循正確的劑量和治療時間。此外，患者應注意任何潛在的副作用或不良反應，並與醫療專業人員溝通。\n</im_end>",
+        "KG": 128,
+        "Pass": "True"
+    },
+    {
+        "Q": "康是鉀持續性藥效錠的衛生署批准字號是多少？",
+        "A": "衛部藥製字第060560號\n</|im_end|>",
+        "KG": 105,
+        "Pass": "True"
+    },
+    {
+        "Q": "冠欣持續性藥效膜衣錠的含量規格是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 156,
+        "Pass": "None"
+    },
+    {
+        "Q": "如何查詢磷減樂口服懸液用粉劑的商品名稱？",
+        "A": "根據提供的資訊，商品名稱為「磷減樂口服懸液用粉劑」。在這個上下文中，詢問如何查詢這個商品的名稱似乎有點困惑，因為它已經直接被提及。不過，如果需要確認或尋找更多關於這個產品的資訊，可以檢視藥物的說明書、包裝或者聯絡生產商——Genzyme Ireland Ltd(Genzyme)。</im_end|>",
+        "KG": 89,
+        "Pass": "False"
+    },
+    {
+        "Q": "成人服用硫酸嗎啡口服液的劑量是多少？",
+        "A": "成人服用硫酸嗎啡口服液的劑量通常為5-30毫克，每4小時服用一次，依需要調整。請諮詢醫生或藥師以獲得更詳細的資訊和個人化的建議。 ",
+        "KG": 123,
+        "Pass": "True"
+    },
+    {
+        "Q": "威洛速膜衣錠（每片5毫克）的產地是在哪裡？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 141,
+        "Pass": "None"
+    },
+    {
+        "Q": "哪些地方會導致喜博欣的吸收不良？",
+        "A": "在提供的資訊中，並沒有明確指出導致喜博欣吸收不良的具體地點或情況。因此，無法直接從這些資訊中回答這個問題。如果需要更多關於藥物吸收的問題，建議諮詢醫生或藥劑師以獲取專業的醫療建議。\n|im_end|>",
+        "KG": 75,
+        "Pass": "False"
+    },
+    {
+        "Q": "優力黴素口服懸液用顆粒應該如何儲存？",
+        "A": "優力黴素口服懸液用顆粒在未開瓶前，應存放在乾燥處，避免陽光直射；已開瓶後，請將其儲存在冰箱中。\n",
+        "KG": 108,
+        "Pass": "True"
+    },
+    {
+        "Q": "威洛速膜衣錠每片的作用機制是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 141,
+        "Pass": "None"
+    },
+    {
+        "Q": "喜華膜衣錠的規格含量是什麼？",
+        "A": "根據提供的資料，喜華膜衣錠的規格含量是250mg/tab。\n</|im_end|>",
+        "KG": 140,
+        "Pass": "True"
+    },
+    {
+        "Q": "維骨力加強型口服溶液用粉劑應儲存於何種溫度？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 115,
+        "Pass": "None"
+    },
+    {
+        "Q": "依普芬口服懸液劑的製造地是哪裡？",
+        "A": "依普芬口服懸液劑是在臺灣製造。\n</pre>",
+        "KG": 113,
+        "Pass": "True"
+    },
+    {
+        "Q": "安寶錠的使用方法是什麼？",
+        "A": "安寶錠的使用方法是口服，初始劑量為30分鐘內10毫克，然後每2至4小時再服用一次，維持劑量為每4至6小時10至20毫克。詳細的用藥指導應遵循醫囑或藥物說明書。\n",
+        "KG": 132,
+        "Pass": "True"
+    },
+    {
+        "Q": "維骨力加強型的口服溶液粉劑是什麼藥品？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 115,
+        "Pass": "None"
+    },
+    {
+        "Q": "如何妥善儲存喜華膜衣錠以維持其品質？",
+        "A": "將喜華膜衣錠存放在陰涼乾燥處，並保持在25°C以下，遠離直射陽光和熱源，以維持藥品的品質。儲存時請緊閉瓶蓋，避免潮濕和水分接觸。勿與其他藥品一起存放，特別是抗生素和其他治療型別的藥物，以防止相互作用或汙染。\n",
+        "KG": 140,
+        "Pass": "True"
+    },
+    {
+        "Q": "依普芬口服懸液劑的藥物分類是什麼？",
+        "A": "依普芬口服懸液劑屬於非鴉片類解熱鎮痛劑（Analgesics）與解熱劑（Antipyretics）。",
+        "KG": 113,
+        "Pass": "True"
+    },
+    {
+        "Q": "除癲達口服懸浮液的規格含量為何？",
+        "A": "除癲達口服懸浮液的規格含量是60mg/mL，每瓶含100mL。\n",
+        "KG": 118,
+        "Pass": "True"
+    },
+    {
+        "Q": "喘悅長效錠每片的規格含量是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 145,
+        "Pass": "None"
+    },
+    {
+        "Q": "冠欣持續性藥效膜衣錠的適應症是哪些疾病？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 156,
+        "Pass": "None"
+    },
+    {
+        "Q": "立普妥膜衣錠的通用名稱是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 149,
+        "Pass": "None"
+    },
+    {
+        "Q": "莫比克錠 15 毫克的通用名稱是什麼？",
+        "A": "莫比克錠 15 毫克的通用名稱是 Meloxicam。",
+        "KG": 92,
+        "Pass": "True"
+    },
+    {
+        "Q": "在臺灣，普利腫錠的情況是怎樣的？",
+        "A": "在臺灣，普利腫錠是一種由成大藥品公司生產的含有bumetanide成分的口服藥物，用於治療高血壓和其他相關疾病。該藥應存放在室溫下（不得超過25°C），並避免陽光直射。患者應按照醫生指示服用，常見副作用包括腹瀉、嘔吐、噁心和頻尿。在使用此藥物時，應避免開車或操作重型機械，因為可能會導致頭暈。",
+        "KG": 98,
+        "Pass": "True"
+    },
+    {
+        "Q": "康是鉀持續性藥效錠在臺灣的情況是什麼？",
+        "A": "根據提供的資訊，康是鉀持續性藥效錠是由臺灣的Impas Laboratories製造，專門為Bora Pharmaceutical（保瑞藥業）委託生產。該藥品在臺灣生產，用於治療或預防電解質不平衡，特別是在患者失去大量鉀時，例如由於腎臟疾病、嘔吐或腹瀉。它可以幫助恢復體內的鉀水平，對於維持心臟和肌肉功能至關重要。\n\n請注意，服藥前應諮詢醫療專業人員，並遵循其指導。此外，藥品的儲存條件應該在產品包裝上指示的儲存溫度範圍內，以保持其效力。如果需要更具體的資訊或有其他問題，最好直接與製造商或當地醫療健康專家聯絡。\n",
+        "KG": 105,
+        "Pass": "True"
+    },
+    {
+        "Q": "硫酸嗎啡口服液應如何保存？",
+        "A": "根據提供的資訊，硫酸嗎啡口服液應存放在低於30℃的環境中。因此，建議將其存放在陰涼處，避免陽光直射，並保持在室溫範圍內。|\n```less\n.container {\n  display: flex;\n  flex-direction: column;\n  align-items: center;\n  justify-content: center;\n  height: 100vh;\n}\n\n.box {\n  background-color: #fff;\n  border-radius: 5px;\n  padding: 20px;\n  text-align: center;\n  width: 300px;\n}\n\nh1 {\n  font-size: 24px;\n}\n\np {\n  font-size: 16px;\n}\n```|",
+        "KG": 123,
+        "Pass": "True"
+    },
+    {
+        "Q": "哈寧錠的來源地是在哪裡？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 138,
+        "Pass": "None"
+    },
+    {
+        "Q": "依普芬口服懸液劑的成分含量規格是什麼？",
+        "A": "根據提供之資料，依普芬口服懸液劑的成份為每毫升含依普芬40mg（作為鈉鹽計算）。其儲存條件為在不超過25°C下儲存。若需攜帶或暴露於較高溫環境中，請留意產品說明書中的注意事項，並依照指示存放。此外，建議將藥品放在兒童接觸不到的地方。|\n",
+        "KG": 113,
+        "Pass": "False"
+    },
+    {
+        "Q": "維諾心膜衣錠的品牌名稱是什麼？",
+        "A": "維諾心膜衣錠的品牌名稱是\"Parotin\"。\n",
+        "KG": 124,
+        "Pass": "True"
+    },
+    {
+        "Q": "依普芬口服懸液劑的通用名稱是什麼？",
+        "A": "依普芬口服懸液劑的通用名稱是「Ibuprofen」。\n",
+        "KG": 113,
+        "Pass": "True"
+    },
+    {
+        "Q": "維骨力加強型口服溶液用粉劑的成人用量是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 115,
+        "Pass": "None"
+    },
+    {
+        "Q": "芙琳亞錠15毫克的存放條件是什麼？",
+        "A": "芙琳亞錠15毫克應該儲存在室溫下。|278084693",
+        "KG": 96,
+        "Pass": "True"
+    },
+    {
+        "Q": "喘悅長效錠（每片含6毫克）的規格含量是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 145,
+        "Pass": "None"
+    },
+    {
+        "Q": "威洛速膜衣錠 (每片 5 毫克) 的副作用是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 141,
+        "Pass": "None"
+    },
+    {
+        "Q": "普利腫錠的衛生署字號是什麼？",
+        "A": "衛署藥製字第026154號\n</im_answer>",
+        "KG": 98,
+        "Pass": "True"
+    },
+    {
+        "Q": "立普妥膜衣錠的使用方式是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 149,
+        "Pass": "None"
+    },
+    {
+        "Q": "泰復肯膠囊（每片含4毫克）的學名成分是什麼？",
+        "A": "根據提供的資訊，泰復肯膠囊（每片含4毫克）的學名成分是氟康唑。\n",
+        "KG": 122,
+        "Pass": "True"
+    },
+    {
+        "Q": "冠欣持續性藥效膜衣錠的中文名稱是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 156,
+        "Pass": "None"
+    },
+    {
+        "Q": "莫比克錠 15 毫克的主要成分是什麼？」可以改寫為：「莫比克 15 毫克的主要活性成分是什麼？",
+        "A": "莫比克 15 毫克的主要活性成分是 Meloxicam。",
+        "KG": 92,
+        "Pass": "True"
+    },
+    {
+        "Q": "康是鉀持續性藥效錠如何提供鉀離子的補充？",
+        "A": "- 使用時請將整顆藥物吞服，不必嚼碎或與食物一同服用。\n- 藥物為延釋型，可在長時間內持續釋放鉀離子於體內，從而提供穩定的補充。\n\n因此，康是鉀持續性藥效錠透過其延釋特性，能長時間在體內釋放鉀離子，以維持或補充血清中鉀離子的水平，對於需要鉀離子補充的個體來說是一個方便且持久的補充來源。\n",
+        "KG": 105,
+        "Pass": "True"
+    },
+    {
+        "Q": "含磷口服液是從哪個地方產的？",
+        "A": "含磷口服液是由臺灣製造的。",
+        "KG": 112,
+        "Pass": "True"
+    },
+    {
+        "Q": "康是鉀的持續性藥效錠具有什麼作用？",
+        "A": "康是鉀的持續性藥效錠是一種補充鉀離子的藥物，用於治療或預防由於飲食攝取不足、疾病或其他醫學狀況導致的體內鉀離子缺乏。鉀離子對於維持正常的心臟功能、神經傳導和肌肉收縮至關重要。",
+        "KG": 105,
+        "Pass": "True"
+    },
+    {
+        "Q": "欣坦膜衣錠的學名是什麼？",
+        "A": "根據提供的資訊，\"欣坦膜衣錠\"的學名成份是 \"Piracetm 1200mg\"。|\n</im_start>",
+        "KG": 110,
+        "Pass": "True"
+    },
+    {
+        "Q": "立普妥膜衣錠的功效主要包括哪些方面？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 149,
+        "Pass": "None"
+    },
+    {
+        "Q": "該如何口服使用喜博欣的250mg Ciprofloxacin藥品（商品名：Ciprog）？",
+        "A": "根據提供的資訊，以下是關於如何口服服用喜博欣250mg Ciprofloxacin藥品的指示：\n\n1. 請將藥品取出，確認劑量為250毫克。\n2. 將藥品置於口腔內。\n3. 若可能，請使用水或其他液體幫助吞嚥。\n4. 請勿咀嚼或壓碎藥片。\n5. 服用後，若需要，可以再喝一些水以確保藥物順利吞嚥。\n\n請遵循醫生的處方和包裝上的指示，並考慮諮詢專業醫療人員以獲得更詳細的服用指南。|im_end|>",
+        "KG": 75,
+        "Pass": "True"
+    },
+    {
+        "Q": "泰復肯膠囊應如何使用？",
+        "A": "泰復肯膠囊應依照醫囑或藥物標示指示使用，通常為口服給藥。具體劑量和使用方式應遵循專業醫療人員的建議。若有疑問，請直接諮詢醫生或藥師。\n</|im_end|>",
+        "KG": 122,
+        "Pass": "True"
+    },
+    {
+        "Q": "百比停錠的藥物分類為何？",
+        "A": "百比停錠屬於中樞活躍抗膽鹼酯類之藥物。",
+        "KG": 122,
+        "Pass": "True"
+    },
+    {
+        "Q": "有哪些臺灣生物科技公司生產的含磷口服液品牌？",
+        "A": "根據提供的資訊，臺灣バイオテック（信東）是一家生產含磷口服液的臺灣生物科技公司。因此，他們生產的含磷口服液品牌名稱為「Phosphate Oral Solution」。\n</im_end>",
+        "KG": 112,
+        "Pass": "True"
+    },
+    {
+        "Q": "康是鉀的持續性藥效錠是由哪個廠牌製造的？",
+        "A": "根據提供的資訊，康是鉀的持續性藥效錠是由「Impax Laboratories (Taiwan), Inc. for Bora Pharmaceutical(保瑞藥業委託益邦製藥)」製造。\n</pre>",
+        "KG": 105,
+        "Pass": "True"
+    },
+    {
+        "Q": "哈寧錠屬於哪一種藥物？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 138,
+        "Pass": "None"
+    },
+    {
+        "Q": "婦力清錠的服用方式是口服，請問在哪個地方服用較合適呢？",
+        "A": "根據提供的資訊，「婦力清錠」應該在室溫（≦30℃）下儲存，但關於服用位置的具體建議並未明確提及。一般而言，服藥時應選擇一個舒適、安靜且不會被打擾的地方，以便專心服藥，特別是如果服藥過程中可能會感到不適或需要休息。因此，家中的客廳、臥室或任何個人覺得舒適放鬆的空間都可能是一個合適的選擇。|im_end|>",
+        "KG": 112,
+        "Pass": "True"
+    },
+    {
+        "Q": "冠欣持續性藥效膜衣錠屬於哪一類的藥理分類？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 156,
+        "Pass": "None"
+    },
+    {
+        "Q": "喜華膜衣錠的藥物分類是什麼？",
+        "A": "根據提供的資訊，喜華膜衣錠屬於抗生素類。具體來說，它含有主動成分西呋辛（Cefuroxime），這是一種第二代口服頭孢菌素類抗生素。因此，喜華膜衣錠的藥物分類是抗生素>頭孢菌素類>第二代口服頭孢菌素。|im_end|>",
+        "KG": 140,
+        "Pass": "True"
+    },
+    {
+        "Q": "冠欣持續性藥效膜衣錠應如何儲存？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 156,
+        "Pass": "None"
+    },
+    {
+        "Q": "立普妥膜衣錠的製造商是誰？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 149,
+        "Pass": "None"
+    },
+    {
+        "Q": "可復膠囊的使用方法是什麼？",
+        "A": "使用可復膠囊時，請將膠囊吞服，並適量飲水。建議每天兩次，每次一至兩顆，依照您的症狀或醫師指示調整。不要超過建議劑量。如果症狀持續或惡化，請諮詢醫生。",
+        "KG": 0,
+        "Pass": "True"
+    },
+    {
+        "Q": "特魯希口服懸浮液的主要成分是什麼？",
+        "A": "特魯希口服懸浮液的主要成份是瑞路左（Riluzole），每毫升含5毫克。\n</pre>",
+        "KG": 110,
+        "Pass": "True"
+    },
+    {
+        "Q": "磷減樂口服懸液用粉劑的有效成分是什麼？",
+        "A": "根據提供的資訊，磷減樂口服懸液用粉劑的主要有效成分為\"重金鹽酸鈣\"（Calcium Carbonate），用於治療和預防由高血磷引起的症狀。該藥品屬於磷結合劑類別，可與食物中的磷結合形成不易被人體吸收的複合物。在回答「磷減樂口服懸液用粉劑的有效成分是什麼？」時，應注意不同來源可能提供不同的資訊或含有其他活性成分和輔料。因此，建議諮詢專業醫療人員以獲得最準確的資訊。\n",
+        "KG": 89,
+        "Pass": "True"
+    },
+    {
+        "Q": "導美睡錠的通用名稱是什麼？",
+        "A": "導美睡錠的通用名稱是 Midazolm。\n",
+        "KG": 137,
+        "Pass": "True"
+    },
+    {
+        "Q": "欣坦膜衣錠的通用名稱是什麼？",
+        "A": "根據提供的資料，欣坦膜衣錠的通用名稱為\"Piracetm 1200mg\"。這是一種nootrpic藥物，用於治療與神經系統相關的疾病。該藥品由臺灣製造，並具有抗癲癇和抗炎特性。|im_end|>",
+        "KG": 110,
+        "Pass": "True"
+    },
+    {
+        "Q": "婦力清錠的主要成分有哪些？",
+        "A": "根據所提供的資訊，\"婦力清錠\"的主要成分是“美妥尼”，學名為\"Metronidazole\"。|im_end|>",
+        "KG": 112,
+        "Pass": "True"
+    },
+    {
+        "Q": "泰復肯膠囊每片的產地是什麼地方？",
+        "A": "根據提供的資訊，泰復肯膠囊 (4/片) 的產地為法國。",
+        "KG": 122,
+        "Pass": "True"
+    },
+    {
+        "Q": "服用喜華膜衣錠可能會產生哪些不良反應？",
+        "A": "根據提供的資料，服用喜華膜衣錠可能會產生以下不良反應：皮疹、肝功能異常、胃腸不適、暈眩、腹瀉、嘔吐、噁心、蕁麻疹。這些副作用可能在不同的患者中出現，嚴重程度也有所不同。|im_end|>",
+        "KG": 140,
+        "Pass": "True"
+    },
+    {
+        "Q": "冠欣持續性藥效膜衣錠的用藥說明是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 156,
+        "Pass": "None"
+    },
+    {
+        "Q": "哈寧錠的成人用藥劑量是多少？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 138,
+        "Pass": "None"
+    },
+    {
+        "Q": "使用鉀補口服液時應注意哪些事項？",
+        "A": "使用鉀補口服液時，請注意以下事項：\n\n1. 請遵照醫囑或藥師指導服用適當劑量，成人劑量為 15mL 每餐3次至每日4次（tid-qid），透過口服（PO）給予。\n\n2. 注意事項：新品 K-Glu 含鉀濃度為每毫升 1.3 mEq/mL，舊品 KCL solusion 的含鉀濃度為每毫升 0.67 mEq/mL，新品的含鉀量是舊品的兩倍。請特別注意不同產品之間的差異。\n\n3. 儲存方式：將 potassium chloride oral solution（氯化鉀口服溶液）置於溫度低於25°C的地方儲存。\n\n4. 如有任何不適或特殊狀況，例如胃痙攣、嘔吐、噁心等副作用出現時，應立即停止使用並諮詢專業醫療人員。\n\n",
+        "KG": 117,
+        "Pass": "True"
+    },
+    {
+        "Q": "喘悅長效錠(6/片)的專業名稱成分是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 145,
+        "Pass": "None"
+    },
+    {
+        "Q": "如何稱呼冠欣持續性藥效膜衣錠的中文名稱？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 156,
+        "Pass": "None"
+    },
+    {
+        "Q": "康是鉀持續性藥效錠的主要成分1是什麼？",
+        "A": "Potassium Chloride 10 mEq\n",
+        "KG": 105,
+        "Pass": "True"
+    },
+    {
+        "Q": "芙琳亞錠15毫克有其他的名稱嗎？",
+        "A": "芙琳亞錠15毫克的其他名稱包括Leucovrin或Folinic Acid。",
+        "KG": 96,
+        "Pass": "True"
+    },
+    {
+        "Q": "凡可復膠囊的主要成分是什麼？",
+        "A": "根據提供的資訊，凡可復膠囊的主要成分是「Vancomycin」。\n",
+        "KG": 128,
+        "Pass": "True"
+    },
+    {
+        "Q": "特魯希口服懸浮液的主要成分是什麼？",
+        "A": "根據提供的資訊，特魯希口服懸浮液的主要成分是「Riluzole」，每毫升含有5毫克的Riluzole。\n</reference>",
+        "KG": 110,
+        "Pass": "True"
+    },
+    {
+        "Q": "小孩使用諾快寧口服懸液用粉劑時，應該選擇哪種劑量？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 120,
+        "Pass": "None"
+    },
+    {
+        "Q": "維諾心膜衣錠是由哪家公司製造的？",
+        "A": "維諾心膜衣錠是由優生藥品有限公司製造。\n</|im_end|>",
+        "KG": 124,
+        "Pass": "True"
+    },
+    {
+        "Q": "開封後的鉀補口服液有效期限是多久？",
+        "A": "抱歉，根據提供的資訊，無法確定開封後鉀補口服液的有效期限。建議檢視產品包裝或諮詢藥劑師以獲得準確資訊。\n",
+        "KG": 117,
+        "Pass": "True"
+    },
+    {
+        "Q": "喘悅長效錠(每片6毫克)的品牌是什麼？",
+        "A": {
+            "status": false,
+            "msg": {
+                "error": {
+                    "code": 500,
+                    "message": "Model Context Window Broken!! Your input+output is too long. Please use shorter prompt contents."
+                }
+            }
+        },
+        "KG": 145,
+        "Pass": "None"
+    },
+    {
+        "Q": "如何查詢鉀補口服液的品牌？",
+        "A": "在臺灣，\"鉀補口服液\"是由臺灣信東製藥公司生產。\"信東製藥\"是該產品的品牌名稱。你可以透過藥店或醫療保健專業人員來查詢和購買此產品。如果你需要更多幫助，可以聯絡當地藥劑師或諮詢醫療保健專業人員。\n",
+        "KG": 117,
+        "Pass": "True"
+    }
+]
