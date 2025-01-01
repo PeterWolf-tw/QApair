@@ -44,15 +44,9 @@ if __name__ == "__main__":
                 #print(k)
                 if k == "劑型":
                     mdTypeLIST.append(v)
-                #v = v.replace("\n", " ")
                 statementSTR = statementMaker(k, v, topicSTR=inputDICT["中文名"]).replace("\n", " ")
                 if inputDICT["中文名"] not in udDICT:
                     udDICT[inputDICT["中文名"]] = []
-                #print("")
-                #print(statementSTR)
-                #udLIST = [u.group(0) for u in udPat.finditer(statementSTR)]
-                #print(udLIST)
-                #udDICT["_asCP"].extend(udLIST)
                 udDICT["_asCP"].append(v.replace("\n", " "))
                 while "" in udDICT["_asCP"]:
                     udDICT["_asCP"].remove("")
@@ -62,7 +56,6 @@ if __name__ == "__main__":
                     resultLIST.append(statementSTR)
 
     mdTypeLIST = list(set(mdTypeLIST))
-    #print(mdTypeLIST)
     for u in udDICT:
         udDICT[u] = list(set(udDICT[u]))
         for md in mdTypeLIST:
