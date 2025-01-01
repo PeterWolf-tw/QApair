@@ -10,14 +10,14 @@ from time import sleep
 
 url = "https://api.droidtown.co/Loki/Call/" # 中文版
 
-def _llama38B(accountDICT, systemSTR, assistantSTR, userSTR):
+def _llama38B(accountDICT, sytemSTR, assitantSTR, userSTR):
     payload = {
       "username": accountDICT["username"],
       "func": "call_llm",
       "data": {
         "model": "Llama3-8B",
-        "system": systemSTR,
-        "assistant": assistantSTR,
+        "system": sytemSTR,
+        "assistant": assitantSTR,
         "user": userSTR
       }
     }
@@ -32,14 +32,14 @@ def _llama38B(accountDICT, systemSTR, assistantSTR, userSTR):
     return result
 
 
-def _llama370B(accountDICT, systemSTR, assistantSTR, userSTR):
+def _llama370B(accountDICT, sytemSTR, assitantSTR, userSTR):
     payload = {
       "username": accountDICT["username"],
       "func": "call_llm",
       "data": {
         "model": "Llama3-70B",
-        "system": systemSTR,
-        "assistant": assistantSTR,
+        "system": sytemSTR,
+        "assistant": assitantSTR,
         "user": userSTR
       }
     }
@@ -54,14 +54,14 @@ def _llama370B(accountDICT, systemSTR, assistantSTR, userSTR):
     return result
 
 
-def _gemma29B(accountDICT, systemSTR, assistantSTR, userSTR):
+def _gemma29B(accountDICT, sytemSTR, assitantSTR, userSTR):
     payload = {
       "username": accountDICT["username"],
       "func": "call_llm",
       "data": {
         "model": "Gemma2-9B",
-        "system": systemSTR,
-        "assistant": assistantSTR,
+        "system": sytemSTR,
+        "assistant": assitantSTR,
         "user": userSTR
       }
     }
@@ -79,7 +79,7 @@ def call_LLM(accountDICT=None, llm=None):
 
     answerLIST = json.load(open("./statement.json", "r", encoding="utf-8"))
 
-    systemSTR = "You are a pharmacist in a big hospital. You are assigned to generate questions out of the information from packet inserts."
+    sytemSTR = "You are a pharmacist in a big hospital. You are assigned to generate questions out of the information from packet inserts."
     #"Chinese A-not-A question (e.g., 是不是)", "HOW", "HOW MUCH", , "Yes-No question", "WHAT", "WHERE",
     for wh in ["HOW", "WHAT", "WHERE", "WHICH"]:
         userLIST = [f"You will create wh-questions about {wh} to the answer given above in Traditional Chinese.",
@@ -87,14 +87,14 @@ def call_LLM(accountDICT=None, llm=None):
                    ]
         userSTR = " ".join(userLIST)
         resultLIST = []
-        for ans in answerLIST:
-            assistantSTR = f"Answer:{ans}"
+        for ans in answerLIST[:5]:
+            assitantSTR = f"Answer:{ans}"
             if llm == "gemma29B":
-                question = _gemma29B(accountDICT, systemSTR, assistantSTR, userSTR)
+                question = _gemma29B(accountDICT, sytemSTR, assitantSTR, userSTR)
             elif llm == "llama38B":
-                question = _llama38B(accountDICT, systemSTR, assistantSTR, userSTR)
+                question = _llama38B(accountDICT, sytemSTR, assitantSTR, userSTR)
             elif llm == "llama370B":
-                question = _llama370B(accountDICT, systemSTR, assistantSTR, userSTR)
+                question = _llama370B(accountDICT, sytemSTR, assitantSTR, userSTR)
             #pprint(question)
             if question == None:
                 continue
@@ -106,7 +106,7 @@ def call_LLM(accountDICT=None, llm=None):
                 print("Process:", round(answerLIST.index(ans)/len(answerLIST), 2)*100, "%")
             except:
                 pass
-        with open(f"QA_LLM_{llm}_{wh}.json", "w", encoding="utf-8") as f:
+        with open(f"DEMO_LLM_{llm}_{wh}.json", "w", encoding="utf-8") as f:
             json.dump(resultLIST, f, ensure_ascii=False)
     return None
 
