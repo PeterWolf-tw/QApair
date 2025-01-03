@@ -2,7 +2,7 @@
 
 此處的檔案為利用 Gemma2 9B LLM Model 回答從 1086 個的 [Question](https://github.com/PeterWolf-tw/QApair/tree/main/Test) 中抽出 100 題來測試 Gemma2 9B 模型在由 Llama3 70B 產出的 QA pair 做為參考資料的條件下，是否具備對藥品的相關知識。
 
-本測試共進行三次。三次都是獨立抽出 100 題！
+本測試共進行三次。三次都是獨立抽出 100 題！三次的結果分別以檔名尾綴 "_01.json"、"_02.json"、"_03.json" 標明。
 
 ```python
 [
